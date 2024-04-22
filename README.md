@@ -1,2 +1,2 @@
 # NoteKeeper.github.io
-Created with CodeSandbox
+This is a static website made with React.js framework and supports CRUD operations.
